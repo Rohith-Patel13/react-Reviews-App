@@ -23,6 +23,7 @@
 .btnEl {
   background-color: transparent;
   border: 0px solid transparent;
+  cursor: pointer;
 }
 
 .carouselContainer {
